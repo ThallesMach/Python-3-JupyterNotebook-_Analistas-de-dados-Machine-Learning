@@ -13,10 +13,13 @@ Download Anaconda Distribution
 
 https://www.anaconda.com/download/
 
-JupyTer Notebook
+--->> JupyTer Notebook
 
 http://jupyter.org/
 
+--->> Manual for Jupyter Notebooks
+
+https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
 _________________________________________________________________________________________________________
 
 
