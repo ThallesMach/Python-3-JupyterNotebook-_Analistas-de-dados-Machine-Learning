@@ -9,6 +9,16 @@ https://www.udemy.com/python-3-completo/
 _________________________________________________________________________________________________________
 
 
+rtadewald | acesso ao material do curso
+
+http://nbviewer.jupyter.org/github/rtadewald/Python-Completo-UDEMY/tree/master/
+
+Link github do curso:
+
+https://github.com/rtadewald
+___________________________________________________________________________________
+
+
 Download Anaconda Distribution
 
 https://www.anaconda.com/download/
