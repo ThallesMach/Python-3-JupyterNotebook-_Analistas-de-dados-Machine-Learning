@@ -1,7 +1,7 @@
 
 
-# Python3 com Jupyter-Notebook 
-# _Analistas-de-dados-e-Machine-Learning!
+# Python3 Jupyter-Notebook 
+**--->> Analistas-de-dados-e-Machine-Learning!**
 
 Praticando Python 3 com Jupyter-Notebook 
 
@@ -22,7 +22,7 @@ https://github.com/rtadewald
 ___________________________________________________________________________________
 
 
-Download Anaconda Distribution
+**Download Anaconda Distribution**
 
 https://www.anaconda.com/download/
 
@@ -40,49 +40,39 @@ ________________________________________________________________________________
 
 OS: Linux Mint 19 
 
-install anaconda python in linux
-
-https://youtu.be/3i0YNcgmGZ8
-
-/////////////////////////////////////////////////
+/////////////////
 
 to download anacoda go to this site 
 
 https://www.anaconda.com/download/#linux
 
+http://docs.anaconda.com/anaconda/install/linux/
 
- or  type search for anconda python download
+**How To Install the Anaconda Python Distribution on Ubuntu 16.04**
 
-to install anaconda python type these commands below by opening the terminal 
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04
 
-where anaconda installer file is being downloaded
+**Como instalar a distribuição Anaconda Python no Ubuntu 16.04**
 
+https://websetnet.net/pt/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04/
 
-$  mdsum "filename"    
+/////////////////////////////////////////
 
-$  chmod +x "filename"
+**HOW TO RUN ANACONDA NAVIGATOR AS ROOT || LINUX**
 
-$  bash "filename"
+https://youtu.be/WZZXWKdP5uM
+_________________________________________________________________________________________________________
 
+**Anaconda Update All**
 
-the "filename" is suppose to be (Anaconda3-5.1.0-Linux-x86_64.sh)   in
-
- here.which you have downloaded in your download folder
-
-
-HERE ARE THE COMMANDS TO START IT PROPERLY AND WITH NO PROBLEM (PASTE ONE AFTER THE OTHER AND ONE BY ONE) 
-
-
-$ export PATH=/home/"usename"/anaconda3/bin:$PATH 
-
-$ conda --version
-
-$  anaconda-navigator
+$ conda update --all
+_________________________________________________________________________________________________________ 
+ 
+ **--->> Uninstalling Anaconda**
+ 
+ http://docs.anaconda.com/anaconda/install/uninstall/
+ _________________________________________________________________________________________________________
 
 
-/home/"username"/anaconda3
-
- /home/"username"/.bashrc
-
--->>>FiM.
+**----->>> FiM.**
 _________________________________________________________________________________________________________
